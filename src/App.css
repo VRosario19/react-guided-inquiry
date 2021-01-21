@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.Cards{
+  width: 60%;
+    margin: 16px 16px auto;
+    border: 1px solid lightcoral;
+    box-shadow: 0 2px 3px lightcoral;
+    padding: 16px;
+    text-align: center;
+    background-color: lightcoral;
+    display: inline-flex;
+    
+  }
+h1{
+  text-align: center;
+}
